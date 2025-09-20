@@ -35,8 +35,8 @@ Divide the frame into halves and assign the smaller frame and Rotate the frame u
 
 ## Program:
 ``` Python
-### Developed By:DEVESH S
-### Register No:212223230041
+### Developed By:TH KARTHIK KRISHNA
+### Register No:212223240067
 ```
 ## i) Write the frame as JPG file
 ```
